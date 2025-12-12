@@ -8,7 +8,7 @@
 
 ### 🌱 About Me
 
-- 🔭 I’m currently working on **ONE GREEN TECHNOLOGY AND COMMUNICATIONS JOINT STOCK COMPANY**
+- 🔭 I used to work for **ONE GREEN TECHNOLOGY AND COMMUNICATIONS JOINT STOCK COMPANY**
 - 🌱 I’m learning **VueJS, Electron + Vite, NodeJs**
 - 💡 My efforts are focused on optimizing the architecture to build clean user interfaces, ensuring the flexibility and scalability of responsive web applications. Concurrently, I am also exploring various desktop application development frameworks to expand my technical application scope.
 - 🎯 Goal: Become a skilled Frontend Developer
